@@ -45,7 +45,7 @@ async def start(client: Abishnoi, message: Message):
                         "🥀 ɢʀᴏᴜᴘ", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "🏡 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "🥺 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                 ]
             ]
@@ -71,21 +71,21 @@ async def start(_, message: Message):
                     ),
                 ],
                 [
-                    InlineKeyboardButton(text="❄ ʜᴇʟᴩ ❄", callback_data="cbbasic"),
+                    InlineKeyboardButton(text="🙄 ʜᴇʟᴩ 🙄", callback_data="cbbasic"),
                     InlineKeyboardButton(text="🥀 ᴏᴡɴᴇʀ 🥀", user_id=F_OWNER),
                 ],
                 [
                     InlineKeyboardButton(
-                        text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=f"https://t.me/{GROUP_SUPPORT}"
+                        text="🙈 sᴜᴩᴩᴏʀᴛ 🙈", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        text="💘 ᴄʜᴀɴɴᴇʟ 💘", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        text="🥵 ᴄʜᴀɴɴᴇʟ 🥵", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁",
-                        url="https://github.com/Abishnoi69/AsuXMusic",
+                        text="💌 sᴏᴜʀᴄᴇ 💌",
+                        url="https://te.legra.ph/file/ddcb156251c1624d09253.mp4",
                     )
                 ],
             ]
@@ -103,7 +103,7 @@ async def help(client: Abishnoi, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        " ʀᴇᴘᴏ ⚒️", url=f"https://github.com/Abishnoi69/AsuXMusic"
+                        " ʀᴇᴘᴏ ⚒️", url=f"https://t.me/kavi144"
                     )
                 ]
             ]
